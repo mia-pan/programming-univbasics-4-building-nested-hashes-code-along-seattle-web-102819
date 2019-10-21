@@ -23,7 +23,7 @@ def bonus
 
   #code your solution here:
   
-bonus[:motague][:hero][:status]= "dead"
+bonus[:montague][:hero][:status]= "dead"
 bonus[:Capulet][:heroine][:status]= "dead"
 bonus
 end
